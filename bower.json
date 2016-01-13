@@ -1,0 +1,18 @@
+{
+  "name": "js-ajax-error-collector",
+  "authors": [
+    "Thomas Wieser <wiesion@gmail.com>"
+  ],
+  "description": "A singleton to capture all JS and Ajax errors and retrieve them through the window object publicly.",
+  "main": "js-ajax-error-collector.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
